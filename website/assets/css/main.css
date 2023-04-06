@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/background.jpg");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/background7.jpeg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -3102,6 +3102,7 @@ input, select, textarea {
 			#header h1 a {
 				border: 0;
 			}
+	    
 
 		#header nav {
 			font-family: Raleway, Helvetica, sans-serif;
@@ -3454,10 +3455,10 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			font-size: 1em;
+			font-size: 2em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
-			line-height: 2;
+			line-height: 0.5;
 			text-transform: uppercase;
 		}
 
